@@ -1,4 +1,4 @@
-# -Design-of-a-Substrate-with-UCIe-Standard-D2D-Interface
+# Design-of-a-Substrate-with-UCIe-Standard-D2D-Interface
 
 
 Tools Used: Cadence APD+, Xcelium, Innovus.

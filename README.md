@@ -1,7 +1,7 @@
 # Design-of-a-Substrate-with-UCIe-Standard-D2D-Interface
 
 
-Tools Used: Cadence APD+, Xcelium, Innovus.
+Tools Used: Cadence APD+, Innovus.
 
  - Designed a multi-die package using the UCIe ”standard package” D2D interface, integrating JTAG, I2C, and 16-bit
  GPIO with optimized bump mapping.
